@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A7s212021prac5</string>
+    <string name="Superior">Mis Fotos de Perfil</string>
+    <string name="Inferior">https://www.facebook.com/profile.php?id=100010771749095</string>
+    <string name="foto">Foto Num1</string>
+    <string name="foto2">Foto  Num2</string>
+    <string name="foto3">Foto Num3</string>
+    <string name="foto4">Foto Num4</string>
+    <string name="foto5">Foto Num5</string>
+    <string name="foto6">Foto Num6</string>
+    <string name="ingresanombre">Ingresa tu Nombre</string>
+    <string name="miboton">Click Aqui!</string>
+</resources>
